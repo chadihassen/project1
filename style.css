@@ -1,0 +1,429 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#pic{
+    width: 268px;
+    height: 33px;
+}
+.box2{
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    display: flex;
+    list-style: none;
+    margin-top: 38px;
+    justify-content: space-around;    
+
+    width:20%
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    text-decoration: none;
+}
+nav img{
+    margin-top: 25px;
+}
+.box1 a{
+    color:#ababab
+}
+.box1 a:hover{
+    color: #00b39b;
+}
+.two a{color: #00b39b;}
+#three{
+    display: flex;
+    align-items: center;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.text{
+    text-align: center;
+    margin: 65px;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.paragraphe{
+    display: flex;
+    width: 75%;
+    text-align: center;
+    margin-left: 150px;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    font-size: 18px;
+}
+.alwann{
+    width: 350px;
+    height: 350px;
+    background-color: #00b39b;
+    margin-top: 100px;
+
+    border-radius: 10px;
+    color: white;
+}
+.alwann img{
+    margin-left: 30px;
+}
+.alwann h1{
+    margin-left: 30px;
+    margin-top: 45px;
+}
+.alwann h2{
+    font-weight: 400;
+    margin-left: 30px;
+}
+.alwann2{
+    background-color: #3d83df;
+    width: 350px;
+    height: 350px;
+    margin-top: 100px;
+    border-radius: 10px;
+    color: white;
+}
+.alwann2 img{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.alwann2 h1{
+    margin-left: 30px;
+}
+.alwann2 h2{
+    font-weight: 400;
+    margin-left: 30px;
+}
+.alwann3{
+    background-color: #747474;
+    width: 350px;
+    height: 350px;
+    margin-top: 100px;
+    border-radius: 10px;
+    color: white;
+}
+.alwann3 img{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.alwann3 h1{
+    margin-left: 30px;
+}
+.alwann3 h2{
+    font-weight: 400;
+    margin-left: 30px;
+}
+.alwann0{
+width:80%;
+display: flex;
+justify-content: space-around;
+margin-left: 130px;
+}
+.botton{
+    border: none;
+    background-color: transparent;
+    color: black;
+    margin-left: 30px;
+    margin-top: 100px;
+    
+}
+.alwann3 select{
+    display: flex;
+    flex-direction: column;
+}
+.botton1{
+    border: none;
+    background-color: transparent;
+    color: black;
+    margin-left: 30px;
+    margin-top:20px ;
+}
+.jameda img{
+    height: 34px;
+    margin-top: 20px;
+}
+.tuotempo img{
+    width: 195px;
+    height: 34px;
+    margin-top: 20px;
+}
+.gipo img{
+    width: 150px;
+    height: 34px;
+    margin-top: 20px;
+}
+.brands__logos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0;
+    list-style: none;
+    width: 60%;
+    margin-top: 25px;
+    color: #00b39b;
+}
+section{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 60px;
+}
+section h1{
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 500;
+    letter-spacing: -.3px;
+    width: 15%;
+    margin-right: 60px;
+}
+.dok{
+    margin-top: 20px;
+}
+.clinicloud{
+    margin-top: 20px;
+}
+.feegow{
+    margin-top: 20px;
+    margin-right: 400px;
+}
+.logo h1{
+    color: #00b39b;;
+}
+.boca{
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    margin-top: 60px;
+    width: 100%;
+    height: 600px;
+    justify-content: space-around;
+    display: flex;
+}
+.flag2{
+    background-color: white;
+    width: 200px;
+    height: 180px;
+    margin-top: 76px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.flag3{
+    background-color: white;
+    width: 200px;
+    height: 180px;
+    margin-top: 76px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.flag4{
+    background-color: white;
+    width: 200px;
+    height: 180px;
+    margin-top: 76px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.flag5{
+    background-color: white;
+    width: 200px;
+    height: 180px;
+    margin-top: 76px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.flag1{
+    width: 400px;
+    height: 250px;
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.flag1 h1{
+    color: #00b39b;
+}
+.flag1 p{
+    margin-top: 15px;
+}
+.flag{
+    margin-right: -92px;
+}
+.thnen h1{
+    font-size: 2.125rem;
+    color: #00b39b
+}
+.thnen{
+    width: 429px;
+    text-align: center;
+    margin: 0 auto 4.1875rem;
+    margin-top: 83px;
+}
+.thnen p{
+    font-size: .875em;
+    text-align: center;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+}
+.warsaw{
+    display :flex;
+    flex-direction: column;   
+}
+.barcelone{
+    display :flex;
+    flex-direction: column;   
+}
+.rome{
+    display :flex;
+    flex-direction: column;   
+}
+.mexico{
+    display :flex;
+    flex-direction: column;   
+}
+.munich{
+    display :flex;
+    flex-direction: column;   
+}
+.istanbul{
+    display :flex;
+    flex-direction: column;   
+}
+.bologne{
+    display :flex;
+    flex-direction: column;   
+}
+.curitiba{
+    display :flex;
+    flex-direction: column;   
+}
+.riodejeneiro{
+    display :flex;
+    flex-direction: column;   
+}
+.Bogota{
+    display :flex;
+    flex-direction: column;   
+}
+.pays1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 165px;
+    margin-right: 159px;
+    justify-content: space-around;
+    margin-top: 30px;
+
+}
+.pays2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 165px;
+    margin-right: 159px;
+    justify-content: space-around;
+    margin-top: 30px;
+
+}
+.pays3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 165px;
+    margin-right: 159px;
+    justify-content: space-around;
+    margin-top: 30px;
+
+}
+.istanbul{
+    width: 308px;
+}
+.istanbul img{
+    height: 279px;
+}
+.Bogota{
+    width: 317px;
+    margin-left: 178px;
+    margin-top: 30px;
+}
+.finaly{
+    font-size: .875em;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 100px;
+    height: 186px;
+}
+.finaly h1{
+    font-family: Roboto,Arial,sans-serif
+}
+.finaly button{
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    color: white;
+    text-decoration: none;
+    border: none;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.paa{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.paa button{
+    border:none;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #00b39b;
+    margin-top: -8px;
+    color: white;
+}
+.paa button:hover{
+
+    background-color: #c4f1eb;
+}
+.left{
+    display: flex;
+}
+.l1{
+    margin-top: 20px;
+}
+footer p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    text-align: center;
+}
+
+
